@@ -223,8 +223,15 @@ developer = {
 | 🌸 | **Flower Identification AI** | Python · CNN · Deep Learning | 5-class classifier · 90%+ accuracy |
 | 🎙️ | **Real-Time Speech-to-Text** | Whisper AI · CUDA · Python | GPU-accelerated · Low-latency |
 | 🌊 | **Weather Data Pipeline** | Prefect · PostgreSQL · Snowflake · Power BI | End-to-end ETL · Live visualization |
-| 🎯 | **Micro-Doppler Target Classifier** | Python · ML · Signal Processing | Drone vs Bird · SIH 2024 |
+| 🎯 | **Micro-Doppler Target Classifier** | Python · ML · Signal Processing | Drone vs Bird · SIH 2024 · Team Clave |
 | 💧 | **Water Level Prediction (LSTM)** | PyTorch · LSTM · Time-Series | Future-level forecasting |
+| 🔬 | **Code-Adamantor** | HTML · CSS · JS · Chart.js | Microplastic detection & monitoring dashboard · SIH 2025 |
+| 🎯 | **FISH — Focus Intense Student Habitation** | TypeScript | Focus-based productivity app for students |
+| 🚗 | **Visual Park Mall** | Python | Smart parking system |
+| ⚙️ | **PACE — Project Automation Collaboration Engine** | JavaScript | Team workflow automation platform |
+| 💧 | **HydroWatch** | TypeScript | Water monitoring & analytics system |
+| 🤖 | **SORT — Software Operation & Resource Team** | Python | Team resource management system |
+| 🌟 | **Aura** | TypeScript | AI-powered personal assistant app |
 
 </div>
 
@@ -255,11 +262,29 @@ developer = {
 <tr>
 <td>
 
-### 🏅 &nbsp; Smart India Hackathon 2024 — Participant
-![Hackathon](https://img.shields.io/badge/National%20Hackathon-B8860B?style=flat-square&logoColor=0d0d0d)
+### 🏅 &nbsp; Smart India Hackathon 2024 — Participant &nbsp; `Team: Clave`
+![Hackathon](https://img.shields.io/badge/National%20Hackathon%202024-B8860B?style=flat-square&logoColor=0d0d0d)
 
-- Built AI classification pipeline for **Micro-Doppler aerial object detection**
+- Built AI classification pipeline for **Micro-Doppler aerial object detection** (Drone vs Bird)
 - Full solution: signal processing → ML inference → classification output
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🏅 &nbsp; Smart India Hackathon 2025 — Participant &nbsp; `Team: Code-Adamantor`
+![Hackathon](https://img.shields.io/badge/National%20Hackathon%202025-C5A028?style=flat-square&logoColor=0d0d0d)
+
+**Project: Microplastic Detection & Monitoring System**
+
+- Developed **Code-Adamantor**, a microplastic monitoring & analytics dashboard for water quality analysis
+- Designed full end-to-end pipeline: **sensor data ingestion → processing → analytics → visualization**
+- Built multi-module system: **Dashboard · Graph Analytics · Sensor Logs · Settings UI**
+- Integrated real-time data simulation and interactive charts using **Chart.js**
+- Implemented scalable architecture for **IoT sensor integration** and real-time monitoring
+- Delivered a user-centric UI/UX for environmental data insights and decision-making
+- Focused on **environmental monitoring** and scalable smart-city solutions
 
 </td>
 </tr>
